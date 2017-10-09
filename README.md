@@ -3,6 +3,8 @@
 - [ ] share staging server login details with developer
 - [ ] share zeplin files with developer
 - [ ] share dropbox access details with designer and developer 
+- [ ] share github repo access details with developer 
+- [ ] share private slack project channel with developer & designer 
 
 # ASSETS IN DROPBOX 
 - [ ] parent theme 
